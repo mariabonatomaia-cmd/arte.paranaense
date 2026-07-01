@@ -1,1 +1,20 @@
-
+body{
+    background-color: #2A5800;
+    color: #F6F7E9;
+}
+header{
+    background-color:#585500;
+    color: #FAF7DC;
+}
+main{
+    background-colo:#003266;
+    color:#DCFAE7;
+}
+section{
+    background-color:#663B00;
+    color: #FAF6DC;
+}
+footer{
+    background-color:#73251D;
+    color:#F5D7C6;
+}
