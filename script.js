@@ -13,4 +13,4 @@ botoesCurtir.forEach(function(botaoCurtir){
             }
         }
     }
-};
+});
