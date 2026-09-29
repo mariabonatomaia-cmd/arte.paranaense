@@ -1,30 +1,35 @@
-body{
+body {
     background-color: #2A5800;
     color: #000000;
     font-family: Arial, sans-serif;
     margin: 0;
 }
-header{
-    background-color:#e0dc54;
+
+header {
+    background-color: #e0dc54;
     color: #645a00;
     text-align: center;
     padding: 30px;
 
 }
 
-h1{
+h1 {
     font-size: 36px;
 }
-h2{ 
-    color:#003266;
+
+h2 {
+    color: #003266;
 }
-p { 
+
+p {
     font-size: 18px;
     line-height: 1.6;
 }
+
 nav {
     margin-top: 20px;
 }
+
 nav a {
     color: white;
     text-decoration: none;
@@ -34,9 +39,11 @@ nav a {
     margin: 5px;
     display: inline-block;
 }
+
 nav a:hover {
     background-color: #7dfff8;
 }
+
 main {
     width: 80%;
     margin: auto;
@@ -63,6 +70,7 @@ figcaption {
     color: #555555;
     margin-top: 8px;
 }
+
 .card {
     background-color: #edf396;
     padding: 15px;
@@ -70,9 +78,11 @@ figcaption {
     border-left: 6px solid #2e2d6b;
     border-radius: 10px;
 }
+
 .card h3 {
     margin-top: 0;
 }
+
 footer {
     background-color: #222222;
     color: white;
@@ -80,17 +90,20 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
-button{
-    background-color:#3ca5a0;
-    color:#f0f3c0;
+
+button {
+    background-color: #3ca5a0;
+    color: #f0f3c0;
     border: none;
     padding: 10px 15px;
     border-radius: 8px;
     cursor: pointer;
 }
-button:hover{
-    background-color:#e0dc54;
+
+button:hover {
+    background-color: #e0dc54;
 }
+
 .curtir {
     display: block;
     width: fit-content;
