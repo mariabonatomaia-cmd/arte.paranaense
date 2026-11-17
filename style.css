@@ -1,14 +1,14 @@
 :root {
-    --cor-fundo: rgb(70, 119, 60);
+    --cor-fundo: rgb(20, 53, 13);
     --cor-texto: black;
     --cor-principal: rgb(42, 70, 29);
-    --cor-secundaria: rgb(60, 126, 29);
+    --cor-secundaria: rgb(49, 156, 0);
     --cor-hover: rgb(3, 3, 3);
-    --cor-superficie: rgb(41, 99, 153);
+    --cor-superficie: rgb(229, 191, 160);
     --cor-card: rgb(113, 163, 66);
-    --cor-legenda: rgb(203, 252, 255);
-    --cor-clara: rgb(253, 253, 203);
-    --cor-rodape: rgb(20, 50, 83);
+    --cor-legenda: rgb(92, 75, 39);
+    --cor-clara: rgb(229, 191, 160);
+    --cor-rodape:  rgb(49, 156, 0);
 }
 .tema-escuro {
     --cor-fundo: black;
